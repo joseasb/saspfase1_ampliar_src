@@ -1,0 +1,10 @@
+site_name: ODS TRABAJO 4 Sostenibilidad
+
+nav:
+  - Home: index.md
+  - Sostenibilidad: Sostenibilidad.md
+  - ODS 17 Alianzas para lograr objetivos: ODS 17 Alianzas para lograr objetivos.md
+  - Reflexion: Reflexion.md
+
+theme: readthedocs
+language: es
