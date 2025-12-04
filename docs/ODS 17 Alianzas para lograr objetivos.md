@@ -94,22 +94,22 @@ Se puede *medir* el progreso del **ODS 17** en varias metas dentro de **Institut
 
 ---
 
-**“Otros ODS relacionados”**
+## “Otros ODS relacionados” 
 
 A continaucion voy a relacionar brevemente otros 3 ODS que han escogido mis compañeros con el mio (ODS 17):
 
-* ODS 9 (Dario) 
+* [ODS 9](https://dariomggg.github.io/SASP_Fase1_Web/) Dario
 
 El **ODS 9** busca promover *industria, innovación e infraestructura*, mientras que el **ODS 17** impulsa *alianzas y cooperación.* Se relacionan porque los avances en industria e innovación dependen de la colaboración entre gobiernos, empresas y organismos internacionales, así como del intercambio de tecnología y recursos.
 
 ---
 
-* ODS 7 (Jhonatan)
+* [ODS 10](https://hcaroli381.github.io/SASP_Fase1_SITE/#ods/) Hugo Carrasco
 
-El ODS 7 y el ODS 17 se relacionan porque garantizar energía asequible y sostenible *(ODS 7)* requiere alianzas globales *(ODS 17)* para **impulsar** inversiones, **compartir** tecnología limpia y **fortalecer** la cooperación internacional en energías renovables.
+El **ODS 10** y el **ODS 17** se relacionan porque reducir desigualdades (ODS 10) requiere alianzas y cooperación global (ODS 17) para promover políticas inclusivas, apoyo financiero, intercambio de conocimientos y colaboración entre países.
 
 ---
 
-*  ODS 8 (Antonio Mancilla)
+*  [ODS 12](https://scassanc.github.io/SASP_Fase1_Web/) Sergio 
 
-El **ODS 8**, trabajo decente y crecimiento economico, se relaciona con el **ODS 17**, ya que este ultimo proporciona las *herramientas* y los *mecanismos* de cooperación necesarios para alcanzar las metas del *ODS 8*
+El **ODS 12** y el **ODS 17** se relacionan porque promover la producción y el consumo responsables (ODS 12) necesita alianzas globales *(ODS 17)* para impulsar financiamiento, cooperación, intercambio de tecnología y políticas que reduzcan el impacto ambiental en todos los países.
