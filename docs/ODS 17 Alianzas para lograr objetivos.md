@@ -102,7 +102,7 @@ A continaucion voy a relacionar brevemente otros 3 ODS que han escogido mis comp
 
 El **ODS 9** busca promover *industria, innovación e infraestructura*, mientras que el **ODS 17** impulsa *alianzas y cooperación.* Se relacionan porque los avances en industria e innovación dependen de la colaboración entre gobiernos, empresas y organismos internacionales, así como del intercambio de tecnología y recursos.
 
---
+---
 
 * [ODS 10](https://hcaroli381.github.io/SASP_Fase1_SITE/#ods/) Hugo Carrasco
 
